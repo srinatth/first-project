@@ -4,4 +4,6 @@ For loop automatically captures stop iteration function and stops execution wher
 
 Decorators use @------_----- for replacing attribute extention
 
+print(1,2,3,sep='element') ---sep is separator btw arguments
+
 
