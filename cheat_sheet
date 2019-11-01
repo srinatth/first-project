@@ -6,4 +6,8 @@ Decorators use @------_----- for replacing attribute extention
 
 print(1,2,3,sep='element') ---sep is separator btw arguments
 
+'and' operation has higher precedence than 'or'
 
+bool()--operator ..all numbers are treated as True only 0 is treated has False
+
+In 'list' while slicing the elements it doest not include index specified
